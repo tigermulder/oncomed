@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tigermulder/oncomed.git/static/css/main.b824adf5.css",
-    "main.js": "/tigermulder/oncomed.git/static/js/main.67b4c980.js",
-    "index.html": "/tigermulder/oncomed.git/index.html",
-    "main.b824adf5.css.map": "/tigermulder/oncomed.git/static/css/main.b824adf5.css.map",
-    "main.67b4c980.js.map": "/tigermulder/oncomed.git/static/js/main.67b4c980.js.map"
+    "main.css": "/oncomed/static/css/main.b824adf5.css",
+    "main.js": "/oncomed/static/js/main.7e2b323e.js",
+    "index.html": "/oncomed/index.html",
+    "main.b824adf5.css.map": "/oncomed/static/css/main.b824adf5.css.map",
+    "main.7e2b323e.js.map": "/oncomed/static/js/main.7e2b323e.js.map"
   },
   "entrypoints": [
     "static/css/main.b824adf5.css",
-    "static/js/main.67b4c980.js"
+    "static/js/main.7e2b323e.js"
   ]
 }
