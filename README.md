@@ -15,6 +15,8 @@ src/
 ├── api.js // 함수정리
 └── index.js
 
+확인url : https://tigermulder.github.io/oncomed/
+
 구현 조건:
 
 상위차순, 하위차순 정렬 기능과 언어 선택 기능을 제공해야 합니다.
